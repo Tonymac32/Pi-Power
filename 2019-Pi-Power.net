@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:\KiCad\2019-Pi-Power\2019-Pi-Power.sch)
-    (date "1/13/2019 8:46:46 PM")
+    (date "1/17/2019 12:18:03 AM")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -46,7 +46,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 59AD464A))
     (comp (ref L1)
-      (value 15uH)
+      (value 22uH)
       (footprint Inductors_SMD:L_10.4x10.4_H4.8)
       (datasheet ~)
       (libsource (lib Device) (part L) (description Inductor))
@@ -94,7 +94,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5C3AE0D8))
     (comp (ref R4)
-      (value 210k)
+      (value 220k)
       (footprint Resistors_SMD:R_0603)
       (datasheet ~)
       (libsource (lib Device) (part R) (description Resistor))

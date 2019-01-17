@@ -1,0 +1,18 @@
+,Manufacturer Part Number,Manufacturer,Reference Designator,Quantity,Unit Price,Extended Price,,Description
+,,,,,,,,
+1,EEE-1HA100SP,Panasonic Electronic Components,C1,1,$0.36,$0.36,,CAP ALUM 10UF 20% 50V SMD
+2,CL10F104ZB8NNNC,Samsung Electro-Mechanics,C2,1,$0.10,$0.10,,CAP CER 0.1UF 50V Y5V 0603
+3,CL10F104ZB8NNNC,Samsung Electro-Mechanics,C3,1,$0.10,$0.10,,CAP CER 0.1UF 50V Y5V 0604
+4,CL10B151KB8NNNC,Samsung Electro-Mechanics,C4,1,$0.10,$0.10,,CAP CER 150PF 50V X7R 0603
+5,EEE-1HA220WP,Panasonic Electronic Components,C5,1,$0.43,$0.43,,CAP ALUM 22UF 20% 50V SMD
+6,B340A-13-F,Diodes Incorporated,D1,1,$0.46,$0.46,,DIODE SCHOTTKY 40V 3A SMA
+7,TNPW0603100KBEEA,Vishay Dale,R1,1,$0.65,$0.65,,RES 100K OHM 0.1% 1/8W 0603
+8,TNPW060340K2BEEA,Vishay Dale,R2,1,$0.65,$0.65,,RES 40.2K OHM 0.1% 1/8W 0603
+9,TNPW0603100KBEEA,Vishay Dale,R3,1,$0.65,$0.65,,RES 100K OHM 0.1% 1/8W 0604
+10,ERA-3AEB224V,Panasonic Electronic Components,R4,1,$0.35,$0.35,,RES SMD 220K OHM 0.1% 1/10W 0603
+11,7447714220,Wurth Electronics Inc.,L1,1,$2.15,$2.15,,FIXED IND 22UH 3A 50 MOHM SMD
+12,MP1584EN-LF,Monolithic Power Systems Inc.,U1,1,$3.05,$3.05,,IC REG BUCK ADJ 3A
+13,PJ-002AH,CUI Inc.,J1,1,$0.74,$0.74,,CONN PWR JACK 2X5.5MM SOLDER
+14,61400416020,Wurth Electronics Inc.,J2,1,$1.05,$1.05,,CONN RCPT USB2.0 TYPEA 4POS R/A
+15,61400416021,Wurth Electronics Inc.,J3,1,$1.05,$1.05,,CONN RCPT USB2.0 TYPEA 4POS R/A
+16,PPTC202LFBN-RC,Sullins Connector Solutions,P1,1,$2.29,$2.29,,CONN HDR 40POS 0.1 TIN PCB

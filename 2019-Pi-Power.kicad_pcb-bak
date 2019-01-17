@@ -2324,7 +2324,7 @@
     (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x02 2.54mm double row")
     (path /5C4EC589)
-    (fp_text reference J8 (at 1.27 -2.33 90) (layer F.SilkS)
+    (fp_text reference J8 (at -0.0635 -2.3495 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_02x02_Odd_Even (at 1.27 4.87 90) (layer F.Fab)
