@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 62)
+    (drawings 63)
     (tracks 117)
     (zones 0)
     (modules 132)
@@ -2303,7 +2303,7 @@
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (path /5C4D2D19)
-    (fp_text reference J7 (at 0 -2.33 90) (layer F.SilkS)
+    (fp_text reference J7 (at 0.4445 -2.6035 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x04 (at 0 9.95 90) (layer F.Fab)
@@ -2342,7 +2342,7 @@
     (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x02 2.54mm double row")
     (path /5C4EC589)
-    (fp_text reference J8 (at -0.0635 -2.3495 90) (layer F.SilkS)
+    (fp_text reference J8 (at 2.667 -2.159 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_02x02_Odd_Even (at 1.27 4.87 90) (layer F.Fab)
@@ -2741,7 +2741,10 @@
       (xy 0.376964 -2.709982)) (layer F.SilkS) (width 0.01))
   )
 
-  (gr_text I2C (at 221.463 102.4385) (layer F.SilkS) (tstamp 5C3FF94A)
+  (gr_text 5V (at 252.8955 142.1895) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text I2C (at 208.509 103.5815) (layer F.SilkS) (tstamp 5C3FF94A)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_line (start 241.275 139.459) (end 241.275 141.491) (layer Edge.Cuts) (width 0.1) (tstamp 5C3F8570))
