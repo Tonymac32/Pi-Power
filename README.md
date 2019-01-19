@@ -1,4 +1,4 @@
-# 2019-Pi-Power
+# Pi-Power
 
 Simple 3 Amp power supply board to power the single board computer over GPIO.  Input should be between 9 and 24 VDC.
 
