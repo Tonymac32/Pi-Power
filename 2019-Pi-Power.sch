@@ -5,10 +5,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "15 nov 2012"
-Rev ""
-Comp ""
+Title "Raspberry Pi form factor GPIO Power "
+Date "2019-01-19"
+Rev "2.0"
+Comp "Electric Graveyard"
 Comment1 ""
 Comment2 ""
 Comment3 ""
